@@ -7,11 +7,11 @@ This is a template to start your own startup or project. It includes a full-stac
 First, install the dependencies:
 
 ```bash
-pnpm install
+bun install
 ```
 
 Then, run the development server:
 
 ```bash
-pnpm run dev
+bun run dev
 ```
